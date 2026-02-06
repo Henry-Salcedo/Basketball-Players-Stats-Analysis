@@ -36,4 +36,7 @@ Analysised a basketball dataset and calculated, field goal accuracy, three point
 
     The program could be improved by:
     1. The orginization of the codes and when it was excecuted could have be more clean.
-    2. 
+    2. Made calculation and listing more casual/direct.
+    3. Do more research reguarding basketball to understand the true value of the calculations done.
+
+    
